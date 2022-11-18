@@ -1,7 +1,10 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Ivan Silva
+Olá, eu sou o Ivan Silva, aluno do curso Staart
 
+![Rick-and-Morty-Wallpaper (12)](https://user-images.githubusercontent.com/113725343/202802724-c6db0b77-7c18-4e0d-98b8-c689cbb011d3.jpg)
+
+Moro em São Paulo-SP 🌐
 ## Meus hobbies
 
 - Ler 
