@@ -10,11 +10,10 @@ Olá, eu sou o Ivan Silva
 - Meditar 
 
 ## Atualmente estudando 
-
-- React 
 - Git e Github
-- Javascript e Typescript
+- Javascript/Nodejs
 - HTML e CSS
+- SQL
 
 ## Meus contatos 
 
